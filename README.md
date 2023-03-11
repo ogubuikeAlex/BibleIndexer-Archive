@@ -3,6 +3,8 @@
 # Bible Indexer
 
 A comprehensive library for querying bible content and getting cascading dropdowns for loading books of the bible, chapters and associated verses.
+This is an old version.
+Check out latest version [here](https://github.com/king-Alex-d-great/BibleIndexer-v2)
 
 
 ## Author
